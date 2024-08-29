@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dedicated", "dedicated\Dedicated.vcproj", "{F4C475D7-745C-47DE-A3C9-B96B44AED72B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "serverctrl", "utils\serverctrl\serverctrl.vcproj", "{57AA0E67-B290-4177-8E72-4766D793F9CA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "procinfo", "utils\procinfo\procinfo.vcproj", "{9FBC04EA-4104-4097-A28D-260399FC7EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4C475D7-745C-47DE-A3C9-B96B44AED72B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F4C475D7-745C-47DE-A3C9-B96B44AED72B}.Debug|Win32.Build.0 = Debug|Win32
+		{F4C475D7-745C-47DE-A3C9-B96B44AED72B}.Release|Win32.ActiveCfg = Release|Win32
+		{F4C475D7-745C-47DE-A3C9-B96B44AED72B}.Release|Win32.Build.0 = Release|Win32
+		{57AA0E67-B290-4177-8E72-4766D793F9CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{57AA0E67-B290-4177-8E72-4766D793F9CA}.Debug|Win32.Build.0 = Debug|Win32
+		{57AA0E67-B290-4177-8E72-4766D793F9CA}.Release|Win32.ActiveCfg = Release|Win32
+		{57AA0E67-B290-4177-8E72-4766D793F9CA}.Release|Win32.Build.0 = Release|Win32
+		{9FBC04EA-4104-4097-A28D-260399FC7EDE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9FBC04EA-4104-4097-A28D-260399FC7EDE}.Debug|Win32.Build.0 = Debug|Win32
+		{9FBC04EA-4104-4097-A28D-260399FC7EDE}.Release|Win32.ActiveCfg = Release|Win32
+		{9FBC04EA-4104-4097-A28D-260399FC7EDE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
