@@ -105,6 +105,10 @@ SOURCE=.\engine.cpp
 # End Source File
 # Begin Source File
 
+SOURCE=.\md5.cpp
+# End Source File
+# Begin Source File
+
 SOURCE=.\sys_ded.cpp
 # End Source File
 # End Group
@@ -118,6 +122,10 @@ SOURCE=.\conproc.h
 # Begin Source File
 
 SOURCE=..\common\crc.h
+# End Source File
+# Begin Source File
+
+SOURCE=.\md5.h
 # End Source File
 # Begin Source File
 

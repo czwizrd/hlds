@@ -277,6 +277,10 @@
 				</FileConfiguration>
 			</File>
 			<File
+				RelativePath=".\md5.cpp"
+				>
+			</File>
+			<File
 				RelativePath="sys_ded.cpp"
 				>
 				<FileConfiguration
@@ -313,6 +317,10 @@
 			</File>
 			<File
 				RelativePath="dedicated.h"
+				>
+			</File>
+			<File
+				RelativePath=".\md5.h"
 				>
 			</File>
 			<File
